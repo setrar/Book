@@ -1,0 +1,2 @@
+as -g -o addadc.o addadc.s 
+ld -o addadc  addadc.o

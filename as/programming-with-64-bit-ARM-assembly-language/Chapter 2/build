@@ -1,0 +1,2 @@
+as -g -o movexamps.o movexamps.s 
+ld -o movexamps  movexamps.o
