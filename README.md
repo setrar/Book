@@ -6,7 +6,7 @@ Book Studies
 | [as](as) | Assembly |
 | [algorithms](algorithms) | |
 | [cp](cp) | Coding Practice |
-| [elm](elm) | ELM Practice |
+| [elm](elm) | ELM programming |
 | [fp](fp) | Functional Programming |
 | [lp](lp) | Logic Programming |
 | [ml](ml) | Machine Learning |
