@@ -4,6 +4,7 @@ Book Studies
 | Book | Description |
 |-|-|
 | [as](as) | Assembly |
-| [lp](lp) | Logic Programming |
+| [cp](cp) | Coding Practice |
 | [fp](fp) | Functional Programming |
+| [lp](lp) | Logic Programming |
 | [ml](ml) | Machine Learning |
